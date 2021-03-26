@@ -6,7 +6,7 @@ import Accounts.*;
  * Created by james on 24/05/2019.
  */
 public class JointAccount {
-    int i=1;
+    int i=3;
     public String dummyMethod(String input){
         return input;
     }
