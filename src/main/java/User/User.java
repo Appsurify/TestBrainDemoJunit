@@ -4,13 +4,13 @@ package User;
  * Created by james on 24/05/2019.
  */
 public class User {
-    int i=1;
+    int i = 10;
     public String dummyMethod(String input){
         return input;
     }
 
     public String dummyMethodTwo(String input){
-        return input;
+        return input + "_modified";
     }
 
     public String dummyMethodThree(String input){
