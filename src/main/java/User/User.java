@@ -10,7 +10,7 @@ public class User {
     }
 
     public String dummyMethodTwo(String input){
-    	int tmp = 1;
+    	int tmp = 10;
         return input;
     }
 
