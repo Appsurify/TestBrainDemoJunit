@@ -10,7 +10,8 @@ public class User {
     }
 
     public String dummyMethodTwo(String input){
-        return input;
+    	int tmp = 1;
+        return input + "";
     }
 
     public String dummyMethodThree(String input){
