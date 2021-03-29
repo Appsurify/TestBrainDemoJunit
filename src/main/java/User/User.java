@@ -11,7 +11,7 @@ public class User {
 
     public String dummyMethodTwo(String input){
     	int tmp = 1;
-        return input + "";
+        return input + "_mod";
     }
 
     public String dummyMethodThree(String input){
