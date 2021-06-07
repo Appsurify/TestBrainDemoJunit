@@ -26,7 +26,7 @@ import User.Login.*;
 class LoginTests {
 
 	static int i=0;
-	int waitTime = 1125;
+	int waitTime = 1135;
 	
 	public void addDelay(){
 		try {
