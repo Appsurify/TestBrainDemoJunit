@@ -25,7 +25,7 @@ import Accounts.*;
 
 class AccountTests {
 
-	static int i=0;
+	static int i=10;
 	int waitTime = 1000;
 	
 	public void addDelay(){
