@@ -4,7 +4,7 @@ package Payments;
  * Created by james on 24/05/2019.
  */
 public class Payments {
-    int i=2;
+    int i=10;
     public String dummyMethod(String input){
         return input;
     }
