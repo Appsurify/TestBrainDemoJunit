@@ -8,7 +8,7 @@ import User.*;
 public class Login {
     int i=2;
     public String dummyMethod(String input){
-        return input;
+        return "NEW_" + input;
     }
 
     public String dummyMethodTwo(String input){
