@@ -44,7 +44,7 @@ class UserTests {
 		addDelay();
 		User testInstance = new User();
 		String result = testInstance.dummyMethod("test");
-		assertEquals("New_test", result);
+		assertEquals("test", result);
 	}
 
 	@Test

@@ -43,7 +43,7 @@ class LoginTests {
 		addDelay();
 		Login testInstance = new Login();
 		String result = testInstance.dummyMethod("test");
-		assertEquals("test", result);
+		assertEquals("New_test", result);
 	}
 
 	@Test
