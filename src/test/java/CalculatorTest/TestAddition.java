@@ -9,6 +9,6 @@ public class TestAddition {
     @Test
     public void testSimpleAdd(){
         Calculator cal = new Calculator();
-        assertEquals(3, cal.add(2, 2));
+        assertEquals(4, cal.add(2, 2));
     }
 }
