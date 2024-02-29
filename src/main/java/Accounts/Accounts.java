@@ -4,7 +4,7 @@ package Accounts;
  * Created by james on 24/05/2019.
  */
 public class Accounts {
-    int i = 2;
+    int i = 3;
     public String dummyMethod(String input){
         return input;
     }
