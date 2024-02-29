@@ -5,7 +5,7 @@ package CreditCards;
  */
 public class CreditCard{
     //add comment for edit
-    int i=5;
+    int i=15;
     public String dummyMethod(String input){
         return input;
     }
