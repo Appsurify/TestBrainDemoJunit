@@ -4,7 +4,7 @@ package BranchConfiguration;
  * Created by james on 24/05/2019.
  */
 public class BranchConfiguration {
-    int i=1;
+    int i=150;
     public String dummyMethod(String input){
         return input;
     }
