@@ -6,7 +6,7 @@ import Transfers.*;
  * Created by james on 24/05/2019.
  */
 public class OnlineTransfers {
-    int i=1;
+    int i=123;
     public String dummyMethod(String input){
         return input;
     }
