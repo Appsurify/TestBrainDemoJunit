@@ -6,7 +6,7 @@ import CreditCards.*;
  * Created by james on 24/05/2019.
  */
 public class CreditCardInterestRates {
-    int i=1;
+    int i=10;
     public String dummyMethod(String input){
         return input;
     }
