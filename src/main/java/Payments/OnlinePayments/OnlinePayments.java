@@ -4,7 +4,7 @@ package Payments.OnlinePayments;
  * Created by james on 24/05/2019.
  */
 public class OnlinePayments {
-    int i=1;
+    int i=100;
     public String dummyMethod(String input){
         return input;
     }
