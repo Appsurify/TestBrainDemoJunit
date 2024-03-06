@@ -6,7 +6,7 @@ import User.*;
  * Created by james on 24/05/2019.
  */
 public class Login {
-    int i=2;
+    int i=22;
     public String dummyMethod(String input){
         return "NEW_" + input;
     }
